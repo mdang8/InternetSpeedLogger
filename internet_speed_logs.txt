@@ -1,0 +1,2 @@
+    Time & Date                         Speeds Recorded
+Thu Feb 11 01:22:12 2016		D: 21.53 Mbit/s    U: 8.30 Mbit/s
