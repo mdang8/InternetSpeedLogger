@@ -2,4 +2,5 @@
 .vscode/
 Pipfile.lock
 internetspeedlogger/__pycache__
+venv/
 

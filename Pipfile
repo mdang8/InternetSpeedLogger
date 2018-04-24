@@ -7,11 +7,13 @@ name = "pypi"
 
 [packages]
 
-pymysql = "*"
+speedtest-cli = "*"
+pymongo = "*"
 
 
 [dev-packages]
 
+pylint = "*"
 
 
 [requires]
